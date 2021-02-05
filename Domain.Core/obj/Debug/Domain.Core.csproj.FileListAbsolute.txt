@@ -1,0 +1,5 @@
+H:\Programming\MusicWeb\MusicDDD\Domain.Core\bin\Debug\Domain.Core.dll
+H:\Programming\MusicWeb\MusicDDD\Domain.Core\bin\Debug\Domain.Core.pdb
+H:\Programming\MusicWeb\MusicDDD\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+H:\Programming\MusicWeb\MusicDDD\Domain.Core\obj\Debug\Domain.Core.dll
+H:\Programming\MusicWeb\MusicDDD\Domain.Core\obj\Debug\Domain.Core.pdb

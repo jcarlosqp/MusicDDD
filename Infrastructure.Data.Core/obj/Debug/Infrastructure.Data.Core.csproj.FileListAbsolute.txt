@@ -1,0 +1,7 @@
+H:\Programming\MusicWeb\MusicDDD\Infrastructure.Data.Core\obj\Debug\Infrastructure.Data.Core.csprojResolveAssemblyReference.cache
+H:\Programming\MusicWeb\MusicDDD\Infrastructure.Data.Core\bin\Debug\Infrastructure.Data.Core.dll
+H:\Programming\MusicWeb\MusicDDD\Infrastructure.Data.Core\bin\Debug\Infrastructure.Data.Core.pdb
+H:\Programming\MusicWeb\MusicDDD\Infrastructure.Data.Core\bin\Debug\Domain.Core.dll
+H:\Programming\MusicWeb\MusicDDD\Infrastructure.Data.Core\bin\Debug\Domain.Core.pdb
+H:\Programming\MusicWeb\MusicDDD\Infrastructure.Data.Core\obj\Debug\Infrastructure.Data.Core.dll
+H:\Programming\MusicWeb\MusicDDD\Infrastructure.Data.Core\obj\Debug\Infrastructure.Data.Core.pdb
